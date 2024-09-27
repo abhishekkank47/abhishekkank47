@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @abhishekkank47
-- 👀 I’m interested in Full Stack Developer With MERN Stack Knowledge
+- 👀 I’m interested in Full Stack Developer Position With MERN Stack Knowledge
 - 🌱 I’m currently learning Backend / Frontend Optimization, Security Topics, As well As Gaining Knowledge in Advanced Topics of Both Ends With Some DevOps Realated Topics
+- 😄 Pronouns: He/Him
 - Phone: + 91 7387 517 150
 - Email ID: abhishekkank5@gmail.com
 - LinkedIn Profile: www.linkedin.com/in/abhishek-kank-ak47
-                      
-  😄 Pronouns: He/Him
-  
 - FRONTEND : React Js | Tailwind CSS | Bootstrap 5
 - BACKEND : Express Js | Node Js | Restful API | Authentication | Authorization | CRUD
 - DATABASE : Mongo dB | Mongoose
