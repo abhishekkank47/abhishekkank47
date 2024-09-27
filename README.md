@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kank</h1>
-<br/>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <hr/>
@@ -30,9 +29,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
