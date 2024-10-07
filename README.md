@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhishekkank5@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1bLzyWkrmo6LV3LIKDTEZ4aWSNtJNQdcW](Google Drive Link)
+- 📄 Know about my experiences : https://drive.google.com/drive/folders/1bLzyWkrmo6LV3LIKDTEZ4aWSNtJNQdcW
 
 
 <br/>
