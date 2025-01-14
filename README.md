@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kank</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
+<h5 align="center">
+
+   Email : **abhishekkank5@gmail.com**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    LinkedIn : [Abhishek Kank](www.linkedin.com/in/abhishek-kank-ak47)
+
+</h5>
+
 
 <hr/>
 <br/>
