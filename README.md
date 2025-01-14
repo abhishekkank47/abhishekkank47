@@ -3,7 +3,7 @@
 <h5 align="center">
 
    Email : **abhishekkank5@gmail.com**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    LinkedIn : [Abhishek Kank](www.linkedin.com/in/abhishek-kank-ak47)
+    LinkedIn : [Abhishek Kank](https://linkedin.com/in/abhishek-kank-ak47)
 
 </h5>
 
