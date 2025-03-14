@@ -24,8 +24,21 @@ A Experienced Full Stack (Frontend-Backend) Developer From India
 	
 </p>
 <p align="center">
- I'm a Full Stack Developer with a strong foundation in the MERN stack and a passion for creating efficient, scalable, and user-friendly web applications. My expertise spans across Frontend Development, Backend Development, Database Management enabling me to deliver end-to-end solutions for diverse projects.  .
-<p/>
+I'm a Full Stack Developer specializing in building high-performance, secure, and scalable web applications using the MERN stack.</br>
+I combine strong technical skills in Frontend Development, Backend Engineering, and Database Architecture with a DevOps mindset, ensuring applications are both feature-rich and operationally resilient. Passionate about creating solutions that balance user experience with technical excellence, I thrive on solving complex scalability challenges and implementing robust security measures.</br></br>
+
+Always open to collaborating on innovative projects and contributing to technical communities. Let's engineer solutions that scale!</br></br>
+▸ 🌐 End-to-end system architecture with microservices design patterns</br>  
+▸ 🔒 Production-grade security implementation (DDoS protection strategies, rate limiting)</br>  
+▸ ⚡ Performance optimization through caching mechanisms and query optimization</br>  
+▸ 🐳 Scalable infrastructure design (horizontal scaling, containerization with Docker)</br>  
+▸ ✨ Interactive Experiences Breathing life into websites with Framer Motion animations</br></br> 
+▸ ⚡ Performance Optimization by code-splitting, and lazy loading</br></br>
+▸ 🧩 Complex Component Design Building dynamic UIs using Tailwind CSS + CSS Grid/Flexbox</br></br>
+▸ 🚀 Creating reusable UI patterns with Tailwind’s utility-first approach</br></br>
+▸ 📱 responsive designs across all breakpoints  </br></br></br>
+
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Languages</h3>
